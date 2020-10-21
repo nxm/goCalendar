@@ -1,4 +1,4 @@
-# goCalendar - Open Source iCalendar Library
+# 📅 goCalendar - Open Source iCalendar Library
 
 **goCalendar** is simply golang library for generating **iCalendar** format 
 
