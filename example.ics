@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+ProdId:-//github.com//nxm
+Version:2.000000
+CalScale:false
+BEGIN:VEVENT
+DTStamp:20201021T175911
+DTStart:20201021T185911
+DTEnd:20201021T194411
+Summary:Music lesson
+UID:1dabebd4-4f38-48be-8971-3a30c24c4e1a
+Location:School
+Description:Learning musical notes
+END:VEVENT
+END:VCALENDAR
